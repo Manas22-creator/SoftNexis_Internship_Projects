@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>TaskFlow Lite</title>
+
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/utilities.css">
+
+</head>
+<body>
+
+  <!-- App Container -->
+
+  <div class="app-container">
+
+    <!-- Header -->
+
+    <header class="header">
+
+      <h1>TaskFlow Lite</h1>
+
+      <p>
+        Your simple and efficient task manager to boost productivity.
+      </p>
+
+    </header>
+
+    <!-- Task Form -->
+
+    <form id="task-form" class="task-form">
+
+      <input
+        type="text"
+        id="task-input"
+        placeholder="Enter a new task..."
+        maxlength="100"
+      >
+
+      <button type="submit">
+        Add Task
+      </button>
+
+    </form>
+
+    <!-- Error Message -->
+
+    <p id="error-message"></p>
+
+    <!-- Filter Buttons -->
+
+    <div class="filters">
+
+      <button class="filter-btn active" data-filter="all">
+        All
+      </button>
+
+      <button class="filter-btn" data-filter="active">
+        Active
+      </button>
+
+      <button class="filter-btn" data-filter="completed">
+        Completed
+      </button>
+
+    </div>
+
+    <!-- Task Stats -->
+
+    <div class="task-stats">
+
+      <p>Total Tasks: <span id="total-tasks">0</span></p>
+
+      <p>Completed: <span id="completed-tasks">0</span></p>
+
+    </div>
+
+    <!-- Task List -->
+
+    <ul id="task-list" class="task-list">
+
+    </ul>
+
+  </div>
+
+  <script type="module" src="app.js"></script>
+
+</body>
+</html>
