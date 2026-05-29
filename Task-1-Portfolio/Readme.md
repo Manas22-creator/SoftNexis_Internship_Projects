@@ -16,8 +16,8 @@ It showcases personal details, skills, projects, and contact information in a cl
 To run this project locally:
 
 Clone this repository:
-
-```git clone https://github.com/Manas22-creator/SoftNexis_Internship_Projects.git
+```
+git clone https://github.com/Manas22-creator/SoftNexis_Internship_Projects.git
 ```
 
 Navigate to the project folder:
@@ -50,7 +50,7 @@ This project is deployed using Netlify for live hosting and easy access.
 📌 Notes
 Fully responsive design for desktop and mobile devices.
 Clean UI layout with modern structure.
-Created as part of an internship learning and practical implementation.
+Created as part of an internship, learning, and practical implementation.       
 🚀 Live Project Link
 
 👉 https://manas-softnexis-portfolio.netlify.app/
