@@ -287,5 +287,23 @@ darkModeButton.addEventListener(
       'dark-mode'
     );
 
+    /* Update Button Text */
+
+    if(
+      document.body.classList.contains(
+        'dark-mode'
+      )
+    ){
+
+      darkModeButton.textContent =
+        'Light Mode';
+
+    } else {
+
+      darkModeButton.textContent =
+        'Dark Mode';
+
+    }
+
   }
 );
