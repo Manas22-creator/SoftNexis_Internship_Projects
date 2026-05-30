@@ -1,5 +1,13 @@
 # TaskFlow Lite 🚀
 
+
+🌐 Live Demo
+
+The project is deployed and accessible here:
+
+🔗 Live Website:
+https://softnexis-taskflow-lite.netlify.app/
+
 TaskFlow Lite is a modern client-side task management application developed using Vanilla JavaScript.  
 The application demonstrates CRUD operations, DOM manipulation, localStorage persistence, modular JavaScript architecture, and responsive UI/UX design principles.
 
