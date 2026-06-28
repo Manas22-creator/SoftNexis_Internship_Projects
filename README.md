@@ -2,7 +2,7 @@
 
 # SoftNexis Internship Projects 🚀
 
-This repository contains all internship tasks and assignments completed during the SoftNexis Web Development Internship Program.
+This repository contains all internship tasks and assignments completed during the SoftNexis Full Stack Web Development Internship Program.
 
 The internship focuses on frontend development, JavaScript application architecture, backend integration, REST APIs, MongoDB database operations, and scalable web application development.
 
@@ -232,4 +232,4 @@ https://linkedin.com/in/manas-pandey-24684a255
 
 # 📜 License
 
-This repository contains projects completed as part of the SoftNexis Web Development Internship Program. It is intended for educational and portfolio purposes.
+This repository contains projects completed as part of the SoftNexis Full Stack Web Development Internship Program. It is intended for educational and portfolio purposes.
