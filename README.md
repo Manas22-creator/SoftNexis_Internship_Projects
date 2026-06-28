@@ -73,21 +73,56 @@ Task-2-TaskFlow-Lite/
 ```
 
 ---
+✅ Task 3 — TaskFlow REST API
 
-# ⏳ Remaining Internship Tasks
+A secure RESTful backend service built with Node.js and Express.js that serves as the backend for the TaskFlow application.
 
-## ⏳ Task 3 — Backend REST API Development
+Features
+RESTful API architecture
+CRUD operations
+Express Router
+Middleware pipeline
+Helmet security
+CORS configuration
+Morgan requests logging
+Error handling middleware
+Input validation
+In-memory data storage
+Postman API testing
+API Endpoints
+Method	Endpoint	Description
+GET	/api/tasks	Get all tasks
+GET	/api/tasks/:id	Get single task
+POST	/api/tasks	Create task
+PUT	/api/tasks/:id	Update task
+DELETE	/api/tasks/:id	Delete task
+Technologies
+Node.js
+Express.js
+CORS
+Helmet
+Morgan
+dotenv
+Postman
 
-Upcoming backend development task focused on:
-- Node.js
-- Express.js
-- REST API architecture
-- CRUD endpoints
-- Error handling
-- API testing
+📂 Folder
 
-### Status
-Not completed yet.
+Task-3-TaskFlow-API/
+🛠️ Technologies & Tools
+Frontend
+HTML5
+CSS3
+JavaScript (ES6)
+
+Backend
+Node.js
+Express.js
+REST API Development
+Tools
+Git
+GitHub
+VS Code
+Postman
 
 ---
 
@@ -168,26 +203,33 @@ Through these internship tasks, the following skills are being developed:
 
 # 👨‍💻 Developed By
 
-## Manas Pandey
+Manas Pandey
+Portfolio
 
 ### Connect With Me
-- Portfolio: https://manas22portfolio.netlify.app
-- GitHub: https://github.com/Manas22-creator
-- LinkedIn: https://linkedin.com/in/manas-pandey-24684a255
 
+https://manas22portfolio.netlify.app
+
+GitHub
+
+https://github.com/Manas22-creator
+
+LinkedIn
+
+https://linkedin.com/in/manas-pandey-24684a255
 ---
 
-# ⭐ Internship Progress
+# 📈 Internship Progress
 
 | Task | Status |
 |---|---|
 | Task 1 — Portfolio Website | ✅ Completed |
 | Task 2 — TaskFlow Lite | ✅ Completed |
-| Task 3 — Backend REST API | ⏳ Pending |
+| Task 3 — Backend REST API | ✅ Completed |
 | Task 4 — MongoDB Integration | ⏳ Pending |
 
 ---
 
 # 📜 License
 
-This repository is created for educational and internship purposes under the SoftNexis Internship Program.
+This repository contains projects completed as part of the SoftNexis Web Development Internship Program. It is intended for educational and portfolio purposes.
