@@ -1,5 +1,3 @@
-# SoftNexis_Internship_Projects
-
 # SoftNexis Internship Projects 🚀
 
 This repository contains all internship tasks and assignments completed during the SoftNexis Full Stack Web Development Internship Program.
